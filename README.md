@@ -71,5 +71,27 @@ Why Logistic Regression?
 | 6.5, 3.0, 5.2, 2.0 | Iris-virginica |
 
 ---
+how to run
+1.Clone the repository
+2. Install required libraries
+3.Run the Python file
 
-## 📂 Project Structure
+Key Learning Outcomes
+
+- Understanding ML pipeline
+- Preventing Data Leakage
+- Feature Scaling
+- Model Evaluation
+- Confusion Matrix Interpretation
+- Real-world Prediction
+
+---
+
+Author
+
+Kausar Shaikh  
+MCA Student | Aspiring Data Scientist | Machine Learning Enthusiast
+
+---
+
+ If you like this project, give it a star!
